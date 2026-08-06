@@ -1,0 +1,32 @@
+# SkillPath-XR dependencies
+#
+# The system runs with NO third-party packages at all: the default providers
+# (hashing embedder, NetworkX graph, grounded-template explainer, stdlib HTTP
+# server) use only the standard library plus numpy/networkx.
+#
+# ---- required for the default configuration -------------------------------
+numpy>=1.24
+networkx>=3.0
+
+# ---- optional: PDF resume upload ------------------------------------------
+# TXT, DOCX, ODT and RTF are read with the standard library and need nothing.
+# PDF needs ONE of the following (or the `pdftotext` binary from poppler-utils):
+# pdfplumber>=0.11        # best layout fidelity
+# pypdf>=4.0              # lighter alternative
+
+# chardet>=5.0            # better encoding detection for odd text files
+
+# ---- optional: production providers ---------------------------------------
+# Enable with SKILLPATH_EMBEDDINGS=sentence_transformers
+# sentence-transformers>=2.2
+
+# Enable with SKILLPATH_GRAPH_BACKEND=neo4j
+# neo4j>=5.0
+
+# Large-corpus vector search (the NumPy index is exact and fine below ~100k)
+# faiss-cpu>=1.7
+
+# ASGI server (server/app_fastapi.py). The stdlib server needs none of this.
+# fastapi>=0.110
+# uvicorn[standard]>=0.27
+# pydantic>=2.0

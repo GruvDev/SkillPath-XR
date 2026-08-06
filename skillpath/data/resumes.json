@@ -1,0 +1,22 @@
+[
+  {
+    "candidate_id": "C001",
+    "name": "Final-year CS student, ML focus",
+    "text": "PRIYA SHARMA\nFinal-year B.E. Computer Science student | Nagpur, India\n\nSUMMARY\nFinal-year engineering student focused on machine learning and data analysis.\nComfortable with Python and SQL, currently learning deep learning.\n\nSKILLS\nPython, SQL, pandas, NumPy, scikit-learn, statistics, data analysis,\ndata visualization, Git, problem solving\n\nPROJECTS\nCustomer Churn Prediction - Built a classification model in scikit-learn on a\ntelecom dataset, performed feature engineering and model evaluation, reported\nresults to the department review panel.\nSales Dashboard - Analysed two years of retail sales data with pandas and\nproduced an interactive dashboard for the college business club.\n\nEDUCATION\nB.E. Computer Science, 2022-2026\n\nEXPERIENCE\nData Analytics Intern, 6 months - Cleaned and analysed survey data, wrote SQL\nqueries against the reporting database, presented findings to stakeholders.\n"
+  },
+  {
+    "candidate_id": "C002",
+    "name": "Frontend developer, 3 years",
+    "text": "ARJUN MEHTA\nFrontend Developer | Remote, India\n\nSUMMARY\nFrontend developer with 3 years of experience building production React\napplications. Strong CSS and accessibility background.\n\nSKILLS\nJavaScript, TypeScript, React, HTML, CSS, Tailwind CSS, Git, web accessibility,\nunit testing, stakeholder communication\n\nEXPERIENCE\nFrontend Developer, 3 years - Built and maintained a customer dashboard in\nReact and TypeScript. Led the accessibility audit that brought the product to\nWCAG AA. Worked with designers on the component library.\n\nEDUCATION\nB.Tech Information Technology\n"
+  },
+  {
+    "candidate_id": "C003",
+    "name": "Backend engineer moving to data",
+    "text": "RAHUL VERMA\nBackend Engineer | Pune, India\n\nSUMMARY\nBackend engineer with 4 years of experience in Python services, now moving\ntowards data engineering.\n\nSKILLS\nPython, Flask, REST API design, PostgreSQL, SQL, Docker, Git, Linux,\nCI/CD pipelines, microservices architecture\n\nEXPERIENCE\nBackend Engineer, 4 years - Designed REST APIs for an inventory platform.\nContainerised services with Docker and set up CI/CD pipelines. Optimised\nPostgreSQL queries handling significant daily volume.\n\nNo experience with Kubernetes yet.\n\nEDUCATION\nB.E. Computer Engineering\n"
+  },
+  {
+    "candidate_id": "C004",
+    "name": "Applied AI engineer, LLM and graphs",
+    "text": "SNEHA IYER\nApplied AI Engineer | Hyderabad, India\n\nSUMMARY\nApplied AI engineer with 5 years of experience. Recent work centres on large\nlanguage models, retrieval-augmented generation and knowledge graphs.\n\nSKILLS\nPython, PyTorch, deep learning, natural language processing, large language\nmodels, retrieval-augmented generation, knowledge graphs, Neo4j, vector\nsimilarity search, model evaluation, technical writing, Docker\n\nEXPERIENCE\nApplied AI Engineer, 5 years - Built a retrieval-augmented question answering\nsystem over an internal knowledge graph. Evaluated language model outputs for\nfactual grounding. Published two workshop papers.\n\nEDUCATION\nM.Tech Artificial Intelligence\n"
+  }
+]

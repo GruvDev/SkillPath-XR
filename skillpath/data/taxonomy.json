@@ -1,0 +1,1932 @@
+{
+  "skills": [
+    {
+      "uri": "urn:skillpath:skill:programming",
+      "label": "computer programming",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "coding",
+        "software programming",
+        "programming"
+      ],
+      "broader": [],
+      "related": [],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:web-development",
+      "label": "web development",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "web dev"
+      ],
+      "broader": [],
+      "related": [],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:data-engineering",
+      "label": "data engineering",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "data pipelines"
+      ],
+      "broader": [],
+      "related": [],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:machine-learning",
+      "label": "machine learning",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "ML",
+        "statistical learning"
+      ],
+      "broader": [],
+      "related": [],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:cloud-computing",
+      "label": "cloud computing",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "cloud"
+      ],
+      "broader": [],
+      "related": [],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:databases",
+      "label": "database management",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "databases",
+        "database systems"
+      ],
+      "broader": [],
+      "related": [],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:devops",
+      "label": "DevOps practices",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "devops"
+      ],
+      "broader": [],
+      "related": [],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:cybersecurity",
+      "label": "cybersecurity",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "information security",
+        "infosec"
+      ],
+      "broader": [],
+      "related": [],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:mobile-development",
+      "label": "mobile application development",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "mobile development"
+      ],
+      "broader": [],
+      "related": [],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:product-design",
+      "label": "product design",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "digital product design"
+      ],
+      "broader": [],
+      "related": [],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:software-testing",
+      "label": "software testing",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "quality assurance",
+        "QA"
+      ],
+      "broader": [],
+      "related": [],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:python",
+      "label": "Python",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "python3",
+        "python 3"
+      ],
+      "broader": [
+        "urn:skillpath:skill:programming"
+      ],
+      "related": [
+        "urn:skillpath:skill:pandas",
+        "urn:skillpath:skill:numpy",
+        "urn:skillpath:skill:django",
+        "urn:skillpath:skill:flask"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:java",
+      "label": "Java",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "java se",
+        "core java"
+      ],
+      "broader": [
+        "urn:skillpath:skill:programming"
+      ],
+      "related": [
+        "urn:skillpath:skill:spring-boot"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:javascript",
+      "label": "JavaScript",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "js",
+        "ecmascript"
+      ],
+      "broader": [
+        "urn:skillpath:skill:programming"
+      ],
+      "related": [
+        "urn:skillpath:skill:typescript",
+        "urn:skillpath:skill:react",
+        "urn:skillpath:skill:nodejs"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:typescript",
+      "label": "TypeScript",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "ts"
+      ],
+      "broader": [
+        "urn:skillpath:skill:programming"
+      ],
+      "related": [
+        "urn:skillpath:skill:javascript",
+        "urn:skillpath:skill:react",
+        "urn:skillpath:skill:angular"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:cpp",
+      "label": "C++",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "cplusplus",
+        "c plus plus"
+      ],
+      "broader": [
+        "urn:skillpath:skill:programming"
+      ],
+      "related": [],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:golang",
+      "label": "Go",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "golang"
+      ],
+      "broader": [
+        "urn:skillpath:skill:programming"
+      ],
+      "related": [
+        "urn:skillpath:skill:microservices"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:rust",
+      "label": "Rust",
+      "skill_type": "knowledge",
+      "alt_labels": [],
+      "broader": [
+        "urn:skillpath:skill:programming"
+      ],
+      "related": [
+        "urn:skillpath:skill:cpp"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:sql",
+      "label": "SQL",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "structured query language"
+      ],
+      "broader": [
+        "urn:skillpath:skill:programming",
+        "urn:skillpath:skill:databases"
+      ],
+      "related": [
+        "urn:skillpath:skill:postgresql",
+        "urn:skillpath:skill:mysql",
+        "urn:skillpath:skill:data-analysis"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:r-lang",
+      "label": "R",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "r programming"
+      ],
+      "broader": [
+        "urn:skillpath:skill:programming"
+      ],
+      "related": [
+        "urn:skillpath:skill:statistics",
+        "urn:skillpath:skill:data-analysis"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:scala",
+      "label": "Scala",
+      "skill_type": "knowledge",
+      "alt_labels": [],
+      "broader": [
+        "urn:skillpath:skill:programming"
+      ],
+      "related": [
+        "urn:skillpath:skill:spark"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:html",
+      "label": "HTML",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "html5"
+      ],
+      "broader": [
+        "urn:skillpath:skill:web-development"
+      ],
+      "related": [
+        "urn:skillpath:skill:css"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:css",
+      "label": "CSS",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "css3",
+        "cascading style sheets"
+      ],
+      "broader": [
+        "urn:skillpath:skill:web-development"
+      ],
+      "related": [
+        "urn:skillpath:skill:html",
+        "urn:skillpath:skill:tailwind"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:react",
+      "label": "React",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "reactjs",
+        "react.js"
+      ],
+      "broader": [
+        "urn:skillpath:skill:web-development"
+      ],
+      "related": [
+        "urn:skillpath:skill:javascript",
+        "urn:skillpath:skill:typescript",
+        "urn:skillpath:skill:nextjs"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:vue",
+      "label": "Vue.js",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "vuejs",
+        "vue"
+      ],
+      "broader": [
+        "urn:skillpath:skill:web-development"
+      ],
+      "related": [
+        "urn:skillpath:skill:javascript"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:angular",
+      "label": "Angular",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "angularjs"
+      ],
+      "broader": [
+        "urn:skillpath:skill:web-development"
+      ],
+      "related": [
+        "urn:skillpath:skill:typescript"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:nextjs",
+      "label": "Next.js",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "nextjs",
+        "next js"
+      ],
+      "broader": [
+        "urn:skillpath:skill:web-development"
+      ],
+      "related": [
+        "urn:skillpath:skill:react"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:tailwind",
+      "label": "Tailwind CSS",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "tailwindcss"
+      ],
+      "broader": [
+        "urn:skillpath:skill:web-development"
+      ],
+      "related": [
+        "urn:skillpath:skill:css"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:web-accessibility",
+      "label": "web accessibility",
+      "skill_type": "skill",
+      "alt_labels": [
+        "a11y",
+        "accessibility",
+        "wcag"
+      ],
+      "broader": [
+        "urn:skillpath:skill:web-development"
+      ],
+      "related": [
+        "urn:skillpath:skill:css",
+        "urn:skillpath:skill:ux-research"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:nodejs",
+      "label": "Node.js",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "node",
+        "nodejs"
+      ],
+      "broader": [
+        "urn:skillpath:skill:web-development"
+      ],
+      "related": [
+        "urn:skillpath:skill:javascript",
+        "urn:skillpath:skill:rest-api"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:django",
+      "label": "Django",
+      "skill_type": "knowledge",
+      "alt_labels": [],
+      "broader": [
+        "urn:skillpath:skill:web-development"
+      ],
+      "related": [
+        "urn:skillpath:skill:python",
+        "urn:skillpath:skill:rest-api"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:flask",
+      "label": "Flask",
+      "skill_type": "knowledge",
+      "alt_labels": [],
+      "broader": [
+        "urn:skillpath:skill:web-development"
+      ],
+      "related": [
+        "urn:skillpath:skill:python",
+        "urn:skillpath:skill:rest-api"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:fastapi",
+      "label": "FastAPI",
+      "skill_type": "knowledge",
+      "alt_labels": [],
+      "broader": [
+        "urn:skillpath:skill:web-development"
+      ],
+      "related": [
+        "urn:skillpath:skill:python",
+        "urn:skillpath:skill:rest-api"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:spring-boot",
+      "label": "Spring Boot",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "springboot",
+        "spring"
+      ],
+      "broader": [
+        "urn:skillpath:skill:web-development"
+      ],
+      "related": [
+        "urn:skillpath:skill:java",
+        "urn:skillpath:skill:rest-api"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:rest-api",
+      "label": "REST API design",
+      "skill_type": "skill",
+      "alt_labels": [
+        "rest",
+        "restful api",
+        "api design"
+      ],
+      "broader": [
+        "urn:skillpath:skill:web-development"
+      ],
+      "related": [
+        "urn:skillpath:skill:graphql",
+        "urn:skillpath:skill:microservices"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:graphql",
+      "label": "GraphQL",
+      "skill_type": "knowledge",
+      "alt_labels": [],
+      "broader": [
+        "urn:skillpath:skill:web-development"
+      ],
+      "related": [
+        "urn:skillpath:skill:rest-api"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:microservices",
+      "label": "microservices architecture",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "microservice architecture",
+        "microservices"
+      ],
+      "broader": [
+        "urn:skillpath:skill:web-development"
+      ],
+      "related": [
+        "urn:skillpath:skill:docker",
+        "urn:skillpath:skill:kubernetes",
+        "urn:skillpath:skill:rest-api"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:data-analysis",
+      "label": "data analysis",
+      "skill_type": "skill",
+      "alt_labels": [
+        "analysing data",
+        "data analytics"
+      ],
+      "broader": [
+        "urn:skillpath:skill:data-engineering"
+      ],
+      "related": [
+        "urn:skillpath:skill:sql",
+        "urn:skillpath:skill:statistics",
+        "urn:skillpath:skill:data-visualisation"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:data-visualisation",
+      "label": "data visualisation",
+      "skill_type": "skill",
+      "alt_labels": [
+        "data visualization",
+        "dataviz",
+        "charting"
+      ],
+      "broader": [
+        "urn:skillpath:skill:data-engineering"
+      ],
+      "related": [
+        "urn:skillpath:skill:data-analysis",
+        "urn:skillpath:skill:data-storytelling"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:pandas",
+      "label": "pandas",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "pandas library"
+      ],
+      "broader": [
+        "urn:skillpath:skill:data-engineering"
+      ],
+      "related": [
+        "urn:skillpath:skill:python",
+        "urn:skillpath:skill:numpy",
+        "urn:skillpath:skill:data-analysis"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:numpy",
+      "label": "NumPy",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "numpy library"
+      ],
+      "broader": [
+        "urn:skillpath:skill:data-engineering"
+      ],
+      "related": [
+        "urn:skillpath:skill:python",
+        "urn:skillpath:skill:pandas"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:etl",
+      "label": "ETL pipeline development",
+      "skill_type": "skill",
+      "alt_labels": [
+        "etl",
+        "extract transform load",
+        "elt"
+      ],
+      "broader": [
+        "urn:skillpath:skill:data-engineering"
+      ],
+      "related": [
+        "urn:skillpath:skill:airflow",
+        "urn:skillpath:skill:data-warehousing"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:airflow",
+      "label": "Apache Airflow",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "airflow"
+      ],
+      "broader": [
+        "urn:skillpath:skill:data-engineering"
+      ],
+      "related": [
+        "urn:skillpath:skill:etl",
+        "urn:skillpath:skill:python"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:spark",
+      "label": "Apache Spark",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "spark",
+        "pyspark"
+      ],
+      "broader": [
+        "urn:skillpath:skill:data-engineering"
+      ],
+      "related": [
+        "urn:skillpath:skill:scala",
+        "urn:skillpath:skill:hadoop",
+        "urn:skillpath:skill:etl"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:hadoop",
+      "label": "Apache Hadoop",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "hadoop",
+        "hdfs"
+      ],
+      "broader": [
+        "urn:skillpath:skill:data-engineering"
+      ],
+      "related": [
+        "urn:skillpath:skill:spark"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:kafka",
+      "label": "Apache Kafka",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "kafka"
+      ],
+      "broader": [
+        "urn:skillpath:skill:data-engineering"
+      ],
+      "related": [
+        "urn:skillpath:skill:microservices",
+        "urn:skillpath:skill:etl"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:data-warehousing",
+      "label": "data warehousing",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "data warehouse",
+        "dwh"
+      ],
+      "broader": [
+        "urn:skillpath:skill:data-engineering"
+      ],
+      "related": [
+        "urn:skillpath:skill:sql",
+        "urn:skillpath:skill:etl"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:dbt",
+      "label": "dbt",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "data build tool"
+      ],
+      "broader": [
+        "urn:skillpath:skill:data-engineering"
+      ],
+      "related": [
+        "urn:skillpath:skill:sql",
+        "urn:skillpath:skill:data-warehousing"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:statistics",
+      "label": "statistics",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "statistical analysis",
+        "applied statistics"
+      ],
+      "broader": [],
+      "related": [
+        "urn:skillpath:skill:data-analysis",
+        "urn:skillpath:skill:machine-learning"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:deep-learning",
+      "label": "deep learning",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "neural networks",
+        "deep neural networks"
+      ],
+      "broader": [
+        "urn:skillpath:skill:machine-learning"
+      ],
+      "related": [
+        "urn:skillpath:skill:pytorch",
+        "urn:skillpath:skill:tensorflow"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:nlp",
+      "label": "natural language processing",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "nlp",
+        "text mining",
+        "computational linguistics"
+      ],
+      "broader": [
+        "urn:skillpath:skill:machine-learning"
+      ],
+      "related": [
+        "urn:skillpath:skill:llm",
+        "urn:skillpath:skill:deep-learning"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:computer-vision",
+      "label": "computer vision",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "cv",
+        "image processing"
+      ],
+      "broader": [
+        "urn:skillpath:skill:machine-learning"
+      ],
+      "related": [
+        "urn:skillpath:skill:deep-learning"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:pytorch",
+      "label": "PyTorch",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "torch"
+      ],
+      "broader": [
+        "urn:skillpath:skill:machine-learning"
+      ],
+      "related": [
+        "urn:skillpath:skill:deep-learning",
+        "urn:skillpath:skill:python"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:tensorflow",
+      "label": "TensorFlow",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "tf",
+        "keras"
+      ],
+      "broader": [
+        "urn:skillpath:skill:machine-learning"
+      ],
+      "related": [
+        "urn:skillpath:skill:deep-learning",
+        "urn:skillpath:skill:python"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:scikit-learn",
+      "label": "scikit-learn",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "sklearn",
+        "scikit learn"
+      ],
+      "broader": [
+        "urn:skillpath:skill:machine-learning"
+      ],
+      "related": [
+        "urn:skillpath:skill:python",
+        "urn:skillpath:skill:machine-learning"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:llm",
+      "label": "large language models",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "llms",
+        "large language model",
+        "foundation models"
+      ],
+      "broader": [
+        "urn:skillpath:skill:machine-learning"
+      ],
+      "related": [
+        "urn:skillpath:skill:nlp",
+        "urn:skillpath:skill:rag",
+        "urn:skillpath:skill:prompt-engineering"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:rag",
+      "label": "retrieval-augmented generation",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "rag",
+        "retrieval augmented generation"
+      ],
+      "broader": [
+        "urn:skillpath:skill:machine-learning"
+      ],
+      "related": [
+        "urn:skillpath:skill:llm",
+        "urn:skillpath:skill:vector-search",
+        "urn:skillpath:skill:knowledge-graphs"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:prompt-engineering",
+      "label": "prompt engineering",
+      "skill_type": "skill",
+      "alt_labels": [
+        "prompting"
+      ],
+      "broader": [
+        "urn:skillpath:skill:machine-learning"
+      ],
+      "related": [
+        "urn:skillpath:skill:llm"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:knowledge-graphs",
+      "label": "knowledge graphs",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "knowledge graph",
+        "kg",
+        "semantic graph"
+      ],
+      "broader": [],
+      "related": [
+        "urn:skillpath:skill:ontology-engineering",
+        "urn:skillpath:skill:neo4j",
+        "urn:skillpath:skill:rag"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:ontology-engineering",
+      "label": "ontology engineering",
+      "skill_type": "skill",
+      "alt_labels": [
+        "ontology design",
+        "taxonomy design"
+      ],
+      "broader": [],
+      "related": [
+        "urn:skillpath:skill:knowledge-graphs"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:vector-search",
+      "label": "vector similarity search",
+      "skill_type": "skill",
+      "alt_labels": [
+        "vector search",
+        "embedding search",
+        "semantic search"
+      ],
+      "broader": [],
+      "related": [
+        "urn:skillpath:skill:rag",
+        "urn:skillpath:skill:elasticsearch"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:mlops",
+      "label": "MLOps",
+      "skill_type": "skill",
+      "alt_labels": [
+        "ml ops",
+        "machine learning operations"
+      ],
+      "broader": [
+        "urn:skillpath:skill:machine-learning"
+      ],
+      "related": [
+        "urn:skillpath:skill:docker",
+        "urn:skillpath:skill:ci-cd",
+        "urn:skillpath:skill:model-evaluation"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:feature-engineering",
+      "label": "feature engineering",
+      "skill_type": "skill",
+      "alt_labels": [
+        "feature extraction"
+      ],
+      "broader": [
+        "urn:skillpath:skill:machine-learning"
+      ],
+      "related": [
+        "urn:skillpath:skill:data-analysis"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:model-evaluation",
+      "label": "model evaluation",
+      "skill_type": "skill",
+      "alt_labels": [
+        "model validation",
+        "model assessment"
+      ],
+      "broader": [
+        "urn:skillpath:skill:machine-learning"
+      ],
+      "related": [
+        "urn:skillpath:skill:statistics"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:recommender-systems",
+      "label": "recommender systems",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "recommendation systems",
+        "recsys"
+      ],
+      "broader": [
+        "urn:skillpath:skill:machine-learning"
+      ],
+      "related": [
+        "urn:skillpath:skill:machine-learning",
+        "urn:skillpath:skill:vector-search"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:postgresql",
+      "label": "PostgreSQL",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "postgres"
+      ],
+      "broader": [
+        "urn:skillpath:skill:databases"
+      ],
+      "related": [
+        "urn:skillpath:skill:sql"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:mysql",
+      "label": "MySQL",
+      "skill_type": "knowledge",
+      "alt_labels": [],
+      "broader": [
+        "urn:skillpath:skill:databases"
+      ],
+      "related": [
+        "urn:skillpath:skill:sql"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:mongodb",
+      "label": "MongoDB",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "mongo"
+      ],
+      "broader": [
+        "urn:skillpath:skill:databases"
+      ],
+      "related": [
+        "urn:skillpath:skill:nosql"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:nosql",
+      "label": "NoSQL databases",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "nosql"
+      ],
+      "broader": [
+        "urn:skillpath:skill:databases"
+      ],
+      "related": [
+        "urn:skillpath:skill:mongodb",
+        "urn:skillpath:skill:redis"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:redis",
+      "label": "Redis",
+      "skill_type": "knowledge",
+      "alt_labels": [],
+      "broader": [
+        "urn:skillpath:skill:databases"
+      ],
+      "related": [
+        "urn:skillpath:skill:nosql"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:neo4j",
+      "label": "Neo4j",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "cypher"
+      ],
+      "broader": [
+        "urn:skillpath:skill:databases"
+      ],
+      "related": [
+        "urn:skillpath:skill:knowledge-graphs"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:elasticsearch",
+      "label": "Elasticsearch",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "elastic search",
+        "opensearch"
+      ],
+      "broader": [
+        "urn:skillpath:skill:databases"
+      ],
+      "related": [
+        "urn:skillpath:skill:vector-search"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:aws",
+      "label": "Amazon Web Services",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "aws",
+        "amazon web services"
+      ],
+      "broader": [
+        "urn:skillpath:skill:cloud-computing"
+      ],
+      "related": [
+        "urn:skillpath:skill:docker",
+        "urn:skillpath:skill:terraform"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:azure",
+      "label": "Microsoft Azure",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "azure"
+      ],
+      "broader": [
+        "urn:skillpath:skill:cloud-computing"
+      ],
+      "related": [
+        "urn:skillpath:skill:docker"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:gcp",
+      "label": "Google Cloud Platform",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "gcp",
+        "google cloud"
+      ],
+      "broader": [
+        "urn:skillpath:skill:cloud-computing"
+      ],
+      "related": [
+        "urn:skillpath:skill:docker"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:docker",
+      "label": "Docker",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "containerisation",
+        "containerization",
+        "containers"
+      ],
+      "broader": [
+        "urn:skillpath:skill:devops"
+      ],
+      "related": [
+        "urn:skillpath:skill:kubernetes",
+        "urn:skillpath:skill:ci-cd"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:kubernetes",
+      "label": "Kubernetes",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "k8s"
+      ],
+      "broader": [
+        "urn:skillpath:skill:devops"
+      ],
+      "related": [
+        "urn:skillpath:skill:docker",
+        "urn:skillpath:skill:microservices"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:ci-cd",
+      "label": "CI/CD pipelines",
+      "skill_type": "skill",
+      "alt_labels": [
+        "ci/cd",
+        "continuous integration",
+        "continuous delivery",
+        "jenkins"
+      ],
+      "broader": [
+        "urn:skillpath:skill:devops"
+      ],
+      "related": [
+        "urn:skillpath:skill:docker",
+        "urn:skillpath:skill:git"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:terraform",
+      "label": "Terraform",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "infrastructure as code",
+        "iac"
+      ],
+      "broader": [
+        "urn:skillpath:skill:devops"
+      ],
+      "related": [
+        "urn:skillpath:skill:aws"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:linux",
+      "label": "Linux administration",
+      "skill_type": "skill",
+      "alt_labels": [
+        "linux",
+        "unix",
+        "shell scripting",
+        "bash"
+      ],
+      "broader": [
+        "urn:skillpath:skill:devops"
+      ],
+      "related": [
+        "urn:skillpath:skill:docker"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:git",
+      "label": "Git version control",
+      "skill_type": "skill",
+      "alt_labels": [
+        "git",
+        "version control",
+        "github"
+      ],
+      "broader": [
+        "urn:skillpath:skill:programming"
+      ],
+      "related": [
+        "urn:skillpath:skill:ci-cd"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:monitoring",
+      "label": "system monitoring",
+      "skill_type": "skill",
+      "alt_labels": [
+        "observability",
+        "prometheus",
+        "grafana"
+      ],
+      "broader": [
+        "urn:skillpath:skill:devops"
+      ],
+      "related": [
+        "urn:skillpath:skill:linux"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:application-security",
+      "label": "application security",
+      "skill_type": "skill",
+      "alt_labels": [
+        "appsec",
+        "secure coding"
+      ],
+      "broader": [
+        "urn:skillpath:skill:cybersecurity"
+      ],
+      "related": [
+        "urn:skillpath:skill:cryptography"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:cryptography",
+      "label": "cryptography",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "encryption"
+      ],
+      "broader": [
+        "urn:skillpath:skill:cybersecurity"
+      ],
+      "related": [
+        "urn:skillpath:skill:application-security"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:penetration-testing",
+      "label": "penetration testing",
+      "skill_type": "skill",
+      "alt_labels": [
+        "pentesting",
+        "ethical hacking"
+      ],
+      "broader": [
+        "urn:skillpath:skill:cybersecurity"
+      ],
+      "related": [
+        "urn:skillpath:skill:application-security"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:iam",
+      "label": "identity and access management",
+      "skill_type": "skill",
+      "alt_labels": [
+        "iam",
+        "authentication",
+        "oauth"
+      ],
+      "broader": [
+        "urn:skillpath:skill:cybersecurity"
+      ],
+      "related": [
+        "urn:skillpath:skill:application-security"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:android",
+      "label": "Android development",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "android"
+      ],
+      "broader": [
+        "urn:skillpath:skill:mobile-development"
+      ],
+      "related": [
+        "urn:skillpath:skill:kotlin",
+        "urn:skillpath:skill:java"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:kotlin",
+      "label": "Kotlin",
+      "skill_type": "knowledge",
+      "alt_labels": [],
+      "broader": [
+        "urn:skillpath:skill:programming"
+      ],
+      "related": [
+        "urn:skillpath:skill:android",
+        "urn:skillpath:skill:java"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:ios",
+      "label": "iOS development",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "ios",
+        "swift"
+      ],
+      "broader": [
+        "urn:skillpath:skill:mobile-development"
+      ],
+      "related": [],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:flutter",
+      "label": "Flutter",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "dart"
+      ],
+      "broader": [
+        "urn:skillpath:skill:mobile-development"
+      ],
+      "related": [
+        "urn:skillpath:skill:react-native"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:react-native",
+      "label": "React Native",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "react native"
+      ],
+      "broader": [
+        "urn:skillpath:skill:mobile-development"
+      ],
+      "related": [
+        "urn:skillpath:skill:react",
+        "urn:skillpath:skill:flutter"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:ui-design",
+      "label": "user interface design",
+      "skill_type": "skill",
+      "alt_labels": [
+        "ui design",
+        "interface design"
+      ],
+      "broader": [
+        "urn:skillpath:skill:product-design"
+      ],
+      "related": [
+        "urn:skillpath:skill:figma",
+        "urn:skillpath:skill:design-systems"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:ux-research",
+      "label": "user experience research",
+      "skill_type": "skill",
+      "alt_labels": [
+        "ux research",
+        "user research",
+        "usability testing"
+      ],
+      "broader": [
+        "urn:skillpath:skill:product-design"
+      ],
+      "related": [
+        "urn:skillpath:skill:ui-design"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:figma",
+      "label": "Figma",
+      "skill_type": "knowledge",
+      "alt_labels": [],
+      "broader": [
+        "urn:skillpath:skill:product-design"
+      ],
+      "related": [
+        "urn:skillpath:skill:ui-design"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:design-systems",
+      "label": "design systems",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "design system"
+      ],
+      "broader": [
+        "urn:skillpath:skill:product-design"
+      ],
+      "related": [
+        "urn:skillpath:skill:ui-design",
+        "urn:skillpath:skill:css"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:prototyping",
+      "label": "prototyping",
+      "skill_type": "skill",
+      "alt_labels": [
+        "rapid prototyping",
+        "wireframing"
+      ],
+      "broader": [
+        "urn:skillpath:skill:product-design"
+      ],
+      "related": [
+        "urn:skillpath:skill:figma"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:unit-testing",
+      "label": "unit testing",
+      "skill_type": "skill",
+      "alt_labels": [
+        "unit tests"
+      ],
+      "broader": [
+        "urn:skillpath:skill:software-testing"
+      ],
+      "related": [
+        "urn:skillpath:skill:test-automation"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:test-automation",
+      "label": "test automation",
+      "skill_type": "skill",
+      "alt_labels": [
+        "automated testing"
+      ],
+      "broader": [
+        "urn:skillpath:skill:software-testing"
+      ],
+      "related": [
+        "urn:skillpath:skill:selenium",
+        "urn:skillpath:skill:ci-cd"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:selenium",
+      "label": "Selenium",
+      "skill_type": "knowledge",
+      "alt_labels": [],
+      "broader": [
+        "urn:skillpath:skill:software-testing"
+      ],
+      "related": [
+        "urn:skillpath:skill:test-automation"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:performance-testing",
+      "label": "performance testing",
+      "skill_type": "skill",
+      "alt_labels": [
+        "load testing",
+        "stress testing"
+      ],
+      "broader": [
+        "urn:skillpath:skill:software-testing"
+      ],
+      "related": [
+        "urn:skillpath:skill:monitoring"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:project-management",
+      "label": "project management",
+      "skill_type": "skill",
+      "alt_labels": [
+        "managing projects"
+      ],
+      "broader": [],
+      "related": [
+        "urn:skillpath:skill:agile",
+        "urn:skillpath:skill:stakeholder-communication"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:agile",
+      "label": "agile methodologies",
+      "skill_type": "knowledge",
+      "alt_labels": [
+        "agile",
+        "scrum",
+        "kanban"
+      ],
+      "broader": [],
+      "related": [
+        "urn:skillpath:skill:project-management"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:stakeholder-communication",
+      "label": "stakeholder communication",
+      "skill_type": "skill",
+      "alt_labels": [
+        "stakeholder management",
+        "client communication"
+      ],
+      "broader": [],
+      "related": [
+        "urn:skillpath:skill:technical-writing",
+        "urn:skillpath:skill:project-management"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:technical-writing",
+      "label": "technical writing",
+      "skill_type": "skill",
+      "alt_labels": [
+        "documentation",
+        "technical documentation"
+      ],
+      "broader": [],
+      "related": [
+        "urn:skillpath:skill:stakeholder-communication"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:team-leadership",
+      "label": "team leadership",
+      "skill_type": "skill",
+      "alt_labels": [
+        "leading teams",
+        "people management",
+        "mentoring"
+      ],
+      "broader": [],
+      "related": [
+        "urn:skillpath:skill:project-management"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:requirements-analysis",
+      "label": "requirements analysis",
+      "skill_type": "skill",
+      "alt_labels": [
+        "requirements gathering",
+        "business analysis"
+      ],
+      "broader": [],
+      "related": [
+        "urn:skillpath:skill:stakeholder-communication",
+        "urn:skillpath:skill:agile"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:data-storytelling",
+      "label": "data storytelling",
+      "skill_type": "skill",
+      "alt_labels": [
+        "presenting data",
+        "insight communication"
+      ],
+      "broader": [],
+      "related": [
+        "urn:skillpath:skill:data-visualisation",
+        "urn:skillpath:skill:stakeholder-communication"
+      ],
+      "description": ""
+    },
+    {
+      "uri": "urn:skillpath:skill:problem-solving",
+      "label": "analytical problem solving",
+      "skill_type": "skill",
+      "alt_labels": [
+        "problem solving",
+        "analytical thinking"
+      ],
+      "broader": [],
+      "related": [],
+      "description": ""
+    }
+  ],
+  "occupations": [
+    {
+      "uri": "urn:skillpath:occupation:data-scientist",
+      "label": "data scientist",
+      "essential_skills": [
+        "urn:skillpath:skill:python",
+        "urn:skillpath:skill:statistics",
+        "urn:skillpath:skill:machine-learning",
+        "urn:skillpath:skill:data-analysis",
+        "urn:skillpath:skill:sql"
+      ],
+      "optional_skills": [
+        "urn:skillpath:skill:deep-learning",
+        "urn:skillpath:skill:data-visualisation",
+        "urn:skillpath:skill:scikit-learn",
+        "urn:skillpath:skill:data-storytelling"
+      ],
+      "description": "Applies statistical and machine learning methods to derive insight from data."
+    },
+    {
+      "uri": "urn:skillpath:occupation:ml-engineer",
+      "label": "machine learning engineer",
+      "essential_skills": [
+        "urn:skillpath:skill:python",
+        "urn:skillpath:skill:machine-learning",
+        "urn:skillpath:skill:deep-learning",
+        "urn:skillpath:skill:mlops",
+        "urn:skillpath:skill:model-evaluation"
+      ],
+      "optional_skills": [
+        "urn:skillpath:skill:pytorch",
+        "urn:skillpath:skill:docker",
+        "urn:skillpath:skill:aws",
+        "urn:skillpath:skill:feature-engineering"
+      ],
+      "description": "Builds, trains and deploys machine learning models in production."
+    },
+    {
+      "uri": "urn:skillpath:occupation:nlp-engineer",
+      "label": "NLP engineer",
+      "essential_skills": [
+        "urn:skillpath:skill:python",
+        "urn:skillpath:skill:nlp",
+        "urn:skillpath:skill:deep-learning",
+        "urn:skillpath:skill:machine-learning"
+      ],
+      "optional_skills": [
+        "urn:skillpath:skill:llm",
+        "urn:skillpath:skill:pytorch",
+        "urn:skillpath:skill:rag",
+        "urn:skillpath:skill:model-evaluation"
+      ],
+      "description": "Develops language technology systems and text understanding pipelines."
+    },
+    {
+      "uri": "urn:skillpath:occupation:ai-research-engineer",
+      "label": "AI research engineer",
+      "essential_skills": [
+        "urn:skillpath:skill:python",
+        "urn:skillpath:skill:deep-learning",
+        "urn:skillpath:skill:machine-learning",
+        "urn:skillpath:skill:model-evaluation"
+      ],
+      "optional_skills": [
+        "urn:skillpath:skill:llm",
+        "urn:skillpath:skill:rag",
+        "urn:skillpath:skill:knowledge-graphs",
+        "urn:skillpath:skill:pytorch",
+        "urn:skillpath:skill:technical-writing"
+      ],
+      "description": "Prototypes and evaluates novel AI methods and publishes findings."
+    },
+    {
+      "uri": "urn:skillpath:occupation:data-engineer",
+      "label": "data engineer",
+      "essential_skills": [
+        "urn:skillpath:skill:sql",
+        "urn:skillpath:skill:python",
+        "urn:skillpath:skill:etl",
+        "urn:skillpath:skill:data-warehousing"
+      ],
+      "optional_skills": [
+        "urn:skillpath:skill:spark",
+        "urn:skillpath:skill:airflow",
+        "urn:skillpath:skill:kafka",
+        "urn:skillpath:skill:aws",
+        "urn:skillpath:skill:dbt"
+      ],
+      "description": "Designs and operates data pipelines and warehouses."
+    },
+    {
+      "uri": "urn:skillpath:occupation:backend-engineer",
+      "label": "backend engineer",
+      "essential_skills": [
+        "urn:skillpath:skill:rest-api",
+        "urn:skillpath:skill:databases",
+        "urn:skillpath:skill:git"
+      ],
+      "optional_skills": [
+        "urn:skillpath:skill:python",
+        "urn:skillpath:skill:java",
+        "urn:skillpath:skill:docker",
+        "urn:skillpath:skill:microservices",
+        "urn:skillpath:skill:postgresql"
+      ],
+      "description": "Builds server-side services and APIs."
+    },
+    {
+      "uri": "urn:skillpath:occupation:frontend-engineer",
+      "label": "frontend engineer",
+      "essential_skills": [
+        "urn:skillpath:skill:javascript",
+        "urn:skillpath:skill:html",
+        "urn:skillpath:skill:css",
+        "urn:skillpath:skill:react"
+      ],
+      "optional_skills": [
+        "urn:skillpath:skill:typescript",
+        "urn:skillpath:skill:nextjs",
+        "urn:skillpath:skill:web-accessibility",
+        "urn:skillpath:skill:tailwind"
+      ],
+      "description": "Builds user-facing web interfaces."
+    },
+    {
+      "uri": "urn:skillpath:occupation:fullstack-engineer",
+      "label": "full stack engineer",
+      "essential_skills": [
+        "urn:skillpath:skill:javascript",
+        "urn:skillpath:skill:rest-api",
+        "urn:skillpath:skill:databases",
+        "urn:skillpath:skill:git"
+      ],
+      "optional_skills": [
+        "urn:skillpath:skill:react",
+        "urn:skillpath:skill:nodejs",
+        "urn:skillpath:skill:docker",
+        "urn:skillpath:skill:postgresql",
+        "urn:skillpath:skill:typescript"
+      ],
+      "description": "Works across both client and server layers of web applications."
+    },
+    {
+      "uri": "urn:skillpath:occupation:devops-engineer",
+      "label": "DevOps engineer",
+      "essential_skills": [
+        "urn:skillpath:skill:linux",
+        "urn:skillpath:skill:ci-cd",
+        "urn:skillpath:skill:docker",
+        "urn:skillpath:skill:cloud-computing"
+      ],
+      "optional_skills": [
+        "urn:skillpath:skill:kubernetes",
+        "urn:skillpath:skill:terraform",
+        "urn:skillpath:skill:monitoring",
+        "urn:skillpath:skill:aws"
+      ],
+      "description": "Automates build, deployment and infrastructure operations."
+    },
+    {
+      "uri": "urn:skillpath:occupation:mobile-developer",
+      "label": "mobile application developer",
+      "essential_skills": [
+        "urn:skillpath:skill:mobile-development",
+        "urn:skillpath:skill:git"
+      ],
+      "optional_skills": [
+        "urn:skillpath:skill:android",
+        "urn:skillpath:skill:ios",
+        "urn:skillpath:skill:flutter",
+        "urn:skillpath:skill:react-native",
+        "urn:skillpath:skill:rest-api"
+      ],
+      "description": "Develops applications for mobile platforms."
+    },
+    {
+      "uri": "urn:skillpath:occupation:qa-engineer",
+      "label": "QA automation engineer",
+      "essential_skills": [
+        "urn:skillpath:skill:software-testing",
+        "urn:skillpath:skill:test-automation",
+        "urn:skillpath:skill:git"
+      ],
+      "optional_skills": [
+        "urn:skillpath:skill:selenium",
+        "urn:skillpath:skill:ci-cd",
+        "urn:skillpath:skill:python",
+        "urn:skillpath:skill:performance-testing"
+      ],
+      "description": "Designs and automates software quality assurance processes."
+    },
+    {
+      "uri": "urn:skillpath:occupation:ux-designer",
+      "label": "UX designer",
+      "essential_skills": [
+        "urn:skillpath:skill:ux-research",
+        "urn:skillpath:skill:ui-design",
+        "urn:skillpath:skill:prototyping"
+      ],
+      "optional_skills": [
+        "urn:skillpath:skill:figma",
+        "urn:skillpath:skill:design-systems",
+        "urn:skillpath:skill:web-accessibility"
+      ],
+      "description": "Researches user needs and designs product experiences."
+    },
+    {
+      "uri": "urn:skillpath:occupation:security-engineer",
+      "label": "security engineer",
+      "essential_skills": [
+        "urn:skillpath:skill:cybersecurity",
+        "urn:skillpath:skill:application-security",
+        "urn:skillpath:skill:linux"
+      ],
+      "optional_skills": [
+        "urn:skillpath:skill:cryptography",
+        "urn:skillpath:skill:penetration-testing",
+        "urn:skillpath:skill:iam",
+        "urn:skillpath:skill:cloud-computing"
+      ],
+      "description": "Protects systems and applications from security threats."
+    },
+    {
+      "uri": "urn:skillpath:occupation:business-analyst",
+      "label": "business analyst",
+      "essential_skills": [
+        "urn:skillpath:skill:requirements-analysis",
+        "urn:skillpath:skill:stakeholder-communication",
+        "urn:skillpath:skill:data-analysis"
+      ],
+      "optional_skills": [
+        "urn:skillpath:skill:sql",
+        "urn:skillpath:skill:data-visualisation",
+        "urn:skillpath:skill:agile",
+        "urn:skillpath:skill:data-storytelling"
+      ],
+      "description": "Translates business needs into system and data requirements."
+    },
+    {
+      "uri": "urn:skillpath:occupation:analytics-engineer",
+      "label": "analytics engineer",
+      "essential_skills": [
+        "urn:skillpath:skill:sql",
+        "urn:skillpath:skill:data-warehousing",
+        "urn:skillpath:skill:data-analysis"
+      ],
+      "optional_skills": [
+        "urn:skillpath:skill:dbt",
+        "urn:skillpath:skill:python",
+        "urn:skillpath:skill:data-visualisation",
+        "urn:skillpath:skill:etl"
+      ],
+      "description": "Models warehouse data into reliable analytics-ready datasets."
+    }
+  ]
+}

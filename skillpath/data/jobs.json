@@ -1,0 +1,522 @@
+[
+  {
+    "job_id": "J001",
+    "title": "Junior Data Scientist",
+    "company": "Northwind Analytics",
+    "location": "Pune, IN",
+    "seniority": "junior",
+    "description": "Support the analytics team in building predictive models and reporting on customer behaviour. You will work with product and marketing stakeholders.",
+    "occupation_uri": "urn:skillpath:occupation:data-scientist",
+    "essential_skills": [
+      "urn:skillpath:skill:python",
+      "urn:skillpath:skill:statistics",
+      "urn:skillpath:skill:machine-learning",
+      "urn:skillpath:skill:data-analysis",
+      "urn:skillpath:skill:sql"
+    ],
+    "optional_skills": [
+      "urn:skillpath:skill:deep-learning",
+      "urn:skillpath:skill:data-visualisation",
+      "urn:skillpath:skill:scikit-learn",
+      "urn:skillpath:skill:data-storytelling",
+      "urn:skillpath:skill:r-lang"
+    ]
+  },
+  {
+    "job_id": "J002",
+    "title": "Machine Learning Engineer",
+    "company": "Vertex Labs",
+    "location": "Bengaluru, IN",
+    "seniority": "mid",
+    "description": "Own the training and deployment lifecycle for recommendation and ranking models serving millions of daily requests.",
+    "occupation_uri": "urn:skillpath:occupation:ml-engineer",
+    "essential_skills": [
+      "urn:skillpath:skill:python",
+      "urn:skillpath:skill:machine-learning",
+      "urn:skillpath:skill:deep-learning",
+      "urn:skillpath:skill:mlops",
+      "urn:skillpath:skill:model-evaluation",
+      "urn:skillpath:skill:docker"
+    ],
+    "optional_skills": [
+      "urn:skillpath:skill:pytorch",
+      "urn:skillpath:skill:aws",
+      "urn:skillpath:skill:feature-engineering",
+      "urn:skillpath:skill:kubernetes"
+    ]
+  },
+  {
+    "job_id": "J003",
+    "title": "NLP Engineer, Search",
+    "company": "Lumen Search",
+    "location": "Remote, IN",
+    "seniority": "mid",
+    "description": "Improve semantic search relevance using language models and embedding retrieval across a large multilingual catalogue.",
+    "occupation_uri": "urn:skillpath:occupation:nlp-engineer",
+    "essential_skills": [
+      "urn:skillpath:skill:python",
+      "urn:skillpath:skill:nlp",
+      "urn:skillpath:skill:deep-learning",
+      "urn:skillpath:skill:machine-learning",
+      "urn:skillpath:skill:vector-search"
+    ],
+    "optional_skills": [
+      "urn:skillpath:skill:llm",
+      "urn:skillpath:skill:pytorch",
+      "urn:skillpath:skill:rag",
+      "urn:skillpath:skill:model-evaluation",
+      "urn:skillpath:skill:elasticsearch"
+    ]
+  },
+  {
+    "job_id": "J004",
+    "title": "AI Research Engineer, Applied LLM",
+    "company": "Meridian AI",
+    "location": "Hyderabad, IN",
+    "seniority": "senior",
+    "description": "Prototype retrieval-augmented reasoning systems and publish results. Works closely with product to move research into production.",
+    "occupation_uri": "urn:skillpath:occupation:ai-research-engineer",
+    "essential_skills": [
+      "urn:skillpath:skill:python",
+      "urn:skillpath:skill:deep-learning",
+      "urn:skillpath:skill:machine-learning",
+      "urn:skillpath:skill:model-evaluation",
+      "urn:skillpath:skill:llm"
+    ],
+    "optional_skills": [
+      "urn:skillpath:skill:rag",
+      "urn:skillpath:skill:knowledge-graphs",
+      "urn:skillpath:skill:pytorch",
+      "urn:skillpath:skill:technical-writing"
+    ]
+  },
+  {
+    "job_id": "J005",
+    "title": "Data Engineer",
+    "company": "Cobalt Systems",
+    "location": "Nagpur, IN",
+    "seniority": "mid",
+    "description": "Build and maintain batch and streaming pipelines feeding the analytics warehouse.",
+    "occupation_uri": "urn:skillpath:occupation:data-engineer",
+    "essential_skills": [
+      "urn:skillpath:skill:sql",
+      "urn:skillpath:skill:python",
+      "urn:skillpath:skill:etl",
+      "urn:skillpath:skill:data-warehousing"
+    ],
+    "optional_skills": [
+      "urn:skillpath:skill:spark",
+      "urn:skillpath:skill:airflow",
+      "urn:skillpath:skill:kafka",
+      "urn:skillpath:skill:aws",
+      "urn:skillpath:skill:dbt"
+    ]
+  },
+  {
+    "job_id": "J006",
+    "title": "Senior Data Engineer",
+    "company": "Cobalt Systems",
+    "location": "Nagpur, IN",
+    "seniority": "senior",
+    "description": "Lead the pipeline platform team and set data modelling standards.",
+    "occupation_uri": "urn:skillpath:occupation:data-engineer",
+    "essential_skills": [
+      "urn:skillpath:skill:sql",
+      "urn:skillpath:skill:python",
+      "urn:skillpath:skill:etl",
+      "urn:skillpath:skill:data-warehousing",
+      "urn:skillpath:skill:spark"
+    ],
+    "optional_skills": [
+      "urn:skillpath:skill:airflow",
+      "urn:skillpath:skill:kafka",
+      "urn:skillpath:skill:aws",
+      "urn:skillpath:skill:dbt",
+      "urn:skillpath:skill:team-leadership"
+    ]
+  },
+  {
+    "job_id": "J007",
+    "title": "Backend Engineer, Payments",
+    "company": "Fintrail",
+    "location": "Mumbai, IN",
+    "seniority": "mid",
+    "description": "Develop resilient payment services with strong consistency requirements.",
+    "occupation_uri": "urn:skillpath:occupation:backend-engineer",
+    "essential_skills": [
+      "urn:skillpath:skill:rest-api",
+      "urn:skillpath:skill:databases",
+      "urn:skillpath:skill:git",
+      "urn:skillpath:skill:python"
+    ],
+    "optional_skills": [
+      "urn:skillpath:skill:java",
+      "urn:skillpath:skill:docker",
+      "urn:skillpath:skill:microservices",
+      "urn:skillpath:skill:postgresql"
+    ]
+  },
+  {
+    "job_id": "J008",
+    "title": "Backend Engineer, Java",
+    "company": "Orion Retail",
+    "location": "Pune, IN",
+    "seniority": "mid",
+    "description": "Build order management services for a high-volume retail platform.",
+    "occupation_uri": "urn:skillpath:occupation:backend-engineer",
+    "essential_skills": [
+      "urn:skillpath:skill:rest-api",
+      "urn:skillpath:skill:databases",
+      "urn:skillpath:skill:git",
+      "urn:skillpath:skill:java",
+      "urn:skillpath:skill:spring-boot"
+    ],
+    "optional_skills": [
+      "urn:skillpath:skill:python",
+      "urn:skillpath:skill:docker",
+      "urn:skillpath:skill:microservices",
+      "urn:skillpath:skill:postgresql",
+      "urn:skillpath:skill:kafka"
+    ]
+  },
+  {
+    "job_id": "J009",
+    "title": "Frontend Engineer",
+    "company": "Brightline",
+    "location": "Remote, IN",
+    "seniority": "junior",
+    "description": "Build accessible, responsive interfaces for our customer dashboard.",
+    "occupation_uri": "urn:skillpath:occupation:frontend-engineer",
+    "essential_skills": [
+      "urn:skillpath:skill:javascript",
+      "urn:skillpath:skill:html",
+      "urn:skillpath:skill:css",
+      "urn:skillpath:skill:react"
+    ],
+    "optional_skills": [
+      "urn:skillpath:skill:typescript",
+      "urn:skillpath:skill:nextjs",
+      "urn:skillpath:skill:web-accessibility",
+      "urn:skillpath:skill:tailwind"
+    ]
+  },
+  {
+    "job_id": "J010",
+    "title": "Senior Frontend Engineer",
+    "company": "Brightline",
+    "location": "Remote, IN",
+    "seniority": "senior",
+    "description": "Lead the design system effort and mentor a team of three engineers.",
+    "occupation_uri": "urn:skillpath:occupation:frontend-engineer",
+    "essential_skills": [
+      "urn:skillpath:skill:javascript",
+      "urn:skillpath:skill:html",
+      "urn:skillpath:skill:css",
+      "urn:skillpath:skill:react",
+      "urn:skillpath:skill:typescript"
+    ],
+    "optional_skills": [
+      "urn:skillpath:skill:nextjs",
+      "urn:skillpath:skill:web-accessibility",
+      "urn:skillpath:skill:tailwind",
+      "urn:skillpath:skill:design-systems",
+      "urn:skillpath:skill:team-leadership"
+    ]
+  },
+  {
+    "job_id": "J011",
+    "title": "Full Stack Engineer",
+    "company": "Kestrel Software",
+    "location": "Nagpur, IN",
+    "seniority": "mid",
+    "description": "Work end to end on features for a B2B scheduling product.",
+    "occupation_uri": "urn:skillpath:occupation:fullstack-engineer",
+    "essential_skills": [
+      "urn:skillpath:skill:javascript",
+      "urn:skillpath:skill:rest-api",
+      "urn:skillpath:skill:databases",
+      "urn:skillpath:skill:git",
+      "urn:skillpath:skill:react",
+      "urn:skillpath:skill:nodejs"
+    ],
+    "optional_skills": [
+      "urn:skillpath:skill:docker",
+      "urn:skillpath:skill:postgresql",
+      "urn:skillpath:skill:typescript"
+    ]
+  },
+  {
+    "job_id": "J012",
+    "title": "DevOps Engineer",
+    "company": "Cobalt Systems",
+    "location": "Pune, IN",
+    "seniority": "mid",
+    "description": "Automate deployment pipelines and manage container infrastructure.",
+    "occupation_uri": "urn:skillpath:occupation:devops-engineer",
+    "essential_skills": [
+      "urn:skillpath:skill:linux",
+      "urn:skillpath:skill:ci-cd",
+      "urn:skillpath:skill:docker",
+      "urn:skillpath:skill:cloud-computing",
+      "urn:skillpath:skill:kubernetes"
+    ],
+    "optional_skills": [
+      "urn:skillpath:skill:terraform",
+      "urn:skillpath:skill:monitoring",
+      "urn:skillpath:skill:aws"
+    ]
+  },
+  {
+    "job_id": "J013",
+    "title": "Site Reliability Engineer",
+    "company": "Vertex Labs",
+    "location": "Bengaluru, IN",
+    "seniority": "senior",
+    "description": "Own service reliability, incident response and capacity planning.",
+    "occupation_uri": "urn:skillpath:occupation:devops-engineer",
+    "essential_skills": [
+      "urn:skillpath:skill:linux",
+      "urn:skillpath:skill:ci-cd",
+      "urn:skillpath:skill:docker",
+      "urn:skillpath:skill:cloud-computing",
+      "urn:skillpath:skill:monitoring",
+      "urn:skillpath:skill:kubernetes"
+    ],
+    "optional_skills": [
+      "urn:skillpath:skill:terraform",
+      "urn:skillpath:skill:aws",
+      "urn:skillpath:skill:golang"
+    ]
+  },
+  {
+    "job_id": "J014",
+    "title": "Android Developer",
+    "company": "Nimbus Apps",
+    "location": "Nagpur, IN",
+    "seniority": "junior",
+    "description": "Build and ship features for a consumer Android application.",
+    "occupation_uri": "urn:skillpath:occupation:mobile-developer",
+    "essential_skills": [
+      "urn:skillpath:skill:mobile-development",
+      "urn:skillpath:skill:git",
+      "urn:skillpath:skill:android"
+    ],
+    "optional_skills": [
+      "urn:skillpath:skill:ios",
+      "urn:skillpath:skill:flutter",
+      "urn:skillpath:skill:react-native",
+      "urn:skillpath:skill:rest-api",
+      "urn:skillpath:skill:kotlin"
+    ]
+  },
+  {
+    "job_id": "J015",
+    "title": "Cross-platform Mobile Developer",
+    "company": "Nimbus Apps",
+    "location": "Remote, IN",
+    "seniority": "mid",
+    "description": "Develop a shared codebase serving both Android and iOS users.",
+    "occupation_uri": "urn:skillpath:occupation:mobile-developer",
+    "essential_skills": [
+      "urn:skillpath:skill:mobile-development",
+      "urn:skillpath:skill:git",
+      "urn:skillpath:skill:flutter"
+    ],
+    "optional_skills": [
+      "urn:skillpath:skill:android",
+      "urn:skillpath:skill:ios",
+      "urn:skillpath:skill:react-native",
+      "urn:skillpath:skill:rest-api"
+    ]
+  },
+  {
+    "job_id": "J016",
+    "title": "QA Automation Engineer",
+    "company": "Orion Retail",
+    "location": "Pune, IN",
+    "seniority": "mid",
+    "description": "Expand automated regression coverage across web and API layers.",
+    "occupation_uri": "urn:skillpath:occupation:qa-engineer",
+    "essential_skills": [
+      "urn:skillpath:skill:software-testing",
+      "urn:skillpath:skill:test-automation",
+      "urn:skillpath:skill:git",
+      "urn:skillpath:skill:selenium"
+    ],
+    "optional_skills": [
+      "urn:skillpath:skill:ci-cd",
+      "urn:skillpath:skill:python",
+      "urn:skillpath:skill:performance-testing"
+    ]
+  },
+  {
+    "job_id": "J017",
+    "title": "UX Designer",
+    "company": "Brightline",
+    "location": "Remote, IN",
+    "seniority": "mid",
+    "description": "Run discovery research and design flows for the analytics product.",
+    "occupation_uri": "urn:skillpath:occupation:ux-designer",
+    "essential_skills": [
+      "urn:skillpath:skill:ux-research",
+      "urn:skillpath:skill:ui-design",
+      "urn:skillpath:skill:prototyping",
+      "urn:skillpath:skill:figma"
+    ],
+    "optional_skills": [
+      "urn:skillpath:skill:design-systems",
+      "urn:skillpath:skill:web-accessibility"
+    ]
+  },
+  {
+    "job_id": "J018",
+    "title": "Application Security Engineer",
+    "company": "Fintrail",
+    "location": "Mumbai, IN",
+    "seniority": "senior",
+    "description": "Lead secure development practices and threat modelling for payment systems.",
+    "occupation_uri": "urn:skillpath:occupation:security-engineer",
+    "essential_skills": [
+      "urn:skillpath:skill:cybersecurity",
+      "urn:skillpath:skill:application-security",
+      "urn:skillpath:skill:linux"
+    ],
+    "optional_skills": [
+      "urn:skillpath:skill:cryptography",
+      "urn:skillpath:skill:penetration-testing",
+      "urn:skillpath:skill:iam",
+      "urn:skillpath:skill:cloud-computing"
+    ]
+  },
+  {
+    "job_id": "J019",
+    "title": "Business Analyst, Data Products",
+    "company": "Northwind Analytics",
+    "location": "Pune, IN",
+    "seniority": "mid",
+    "description": "Bridge business stakeholders and the data platform team.",
+    "occupation_uri": "urn:skillpath:occupation:business-analyst",
+    "essential_skills": [
+      "urn:skillpath:skill:requirements-analysis",
+      "urn:skillpath:skill:stakeholder-communication",
+      "urn:skillpath:skill:data-analysis",
+      "urn:skillpath:skill:sql"
+    ],
+    "optional_skills": [
+      "urn:skillpath:skill:data-visualisation",
+      "urn:skillpath:skill:agile",
+      "urn:skillpath:skill:data-storytelling"
+    ]
+  },
+  {
+    "job_id": "J020",
+    "title": "Analytics Engineer",
+    "company": "Northwind Analytics",
+    "location": "Remote, IN",
+    "seniority": "mid",
+    "description": "Model raw warehouse tables into trusted analytics datasets.",
+    "occupation_uri": "urn:skillpath:occupation:analytics-engineer",
+    "essential_skills": [
+      "urn:skillpath:skill:sql",
+      "urn:skillpath:skill:data-warehousing",
+      "urn:skillpath:skill:data-analysis",
+      "urn:skillpath:skill:dbt"
+    ],
+    "optional_skills": [
+      "urn:skillpath:skill:python",
+      "urn:skillpath:skill:data-visualisation",
+      "urn:skillpath:skill:etl"
+    ]
+  },
+  {
+    "job_id": "J021",
+    "title": "Junior Backend Engineer",
+    "company": "Kestrel Software",
+    "location": "Nagpur, IN",
+    "seniority": "junior",
+    "description": "Support API development for our scheduling platform under mentorship.",
+    "occupation_uri": "urn:skillpath:occupation:backend-engineer",
+    "essential_skills": [
+      "urn:skillpath:skill:rest-api",
+      "urn:skillpath:skill:databases",
+      "urn:skillpath:skill:git",
+      "urn:skillpath:skill:python"
+    ],
+    "optional_skills": [
+      "urn:skillpath:skill:java",
+      "urn:skillpath:skill:docker",
+      "urn:skillpath:skill:microservices",
+      "urn:skillpath:skill:postgresql",
+      "urn:skillpath:skill:flask"
+    ]
+  },
+  {
+    "job_id": "J022",
+    "title": "Machine Learning Engineer, Recommendations",
+    "company": "Lumen Search",
+    "location": "Remote, IN",
+    "seniority": "senior",
+    "description": "Design and scale the ranking stack behind personalised recommendations.",
+    "occupation_uri": "urn:skillpath:occupation:ml-engineer",
+    "essential_skills": [
+      "urn:skillpath:skill:python",
+      "urn:skillpath:skill:machine-learning",
+      "urn:skillpath:skill:deep-learning",
+      "urn:skillpath:skill:mlops",
+      "urn:skillpath:skill:model-evaluation",
+      "urn:skillpath:skill:recommender-systems"
+    ],
+    "optional_skills": [
+      "urn:skillpath:skill:pytorch",
+      "urn:skillpath:skill:docker",
+      "urn:skillpath:skill:aws",
+      "urn:skillpath:skill:feature-engineering",
+      "urn:skillpath:skill:vector-search",
+      "urn:skillpath:skill:spark"
+    ]
+  },
+  {
+    "job_id": "J023",
+    "title": "Data Scientist, Marketing",
+    "company": "Orion Retail",
+    "location": "Mumbai, IN",
+    "seniority": "mid",
+    "description": "Measure campaign effectiveness and build customer segmentation models.",
+    "occupation_uri": "urn:skillpath:occupation:data-scientist",
+    "essential_skills": [
+      "urn:skillpath:skill:python",
+      "urn:skillpath:skill:statistics",
+      "urn:skillpath:skill:machine-learning",
+      "urn:skillpath:skill:data-analysis",
+      "urn:skillpath:skill:sql",
+      "urn:skillpath:skill:data-visualisation"
+    ],
+    "optional_skills": [
+      "urn:skillpath:skill:deep-learning",
+      "urn:skillpath:skill:scikit-learn",
+      "urn:skillpath:skill:data-storytelling",
+      "urn:skillpath:skill:r-lang"
+    ]
+  },
+  {
+    "job_id": "J024",
+    "title": "Graduate Software Engineer",
+    "company": "Meridian AI",
+    "location": "Hyderabad, IN",
+    "seniority": "junior",
+    "description": "Rotational graduate programme across backend and platform teams.",
+    "occupation_uri": "urn:skillpath:occupation:backend-engineer",
+    "essential_skills": [
+      "urn:skillpath:skill:rest-api",
+      "urn:skillpath:skill:databases",
+      "urn:skillpath:skill:git"
+    ],
+    "optional_skills": [
+      "urn:skillpath:skill:python",
+      "urn:skillpath:skill:java",
+      "urn:skillpath:skill:docker",
+      "urn:skillpath:skill:microservices",
+      "urn:skillpath:skill:postgresql"
+    ]
+  }
+]
